@@ -1,4 +1,4 @@
-# 📅 MY Date-Time Library
+# 📅 MY Date & Time Library
 
 A comprehensive, fully custom C++ utility library built from scratch to simplify date manipulation, period management, and calendar rendering. Designed to serve as a robust alternative to standard time libraries, it provides developers with maximum control and flexibility for complex date-time operations without unnecessary overhead.
 
